@@ -1,0 +1,7 @@
+// ENTRADAS
+let nome = prompt('Digite aqui seu nome: ');
+// SAÍDA
+alert(nome);
+console.log(nome);
+
+confirm('E ai, aceita ou nao ');
